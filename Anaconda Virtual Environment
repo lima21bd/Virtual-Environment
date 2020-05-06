@@ -1,0 +1,19 @@
+# Helping Browser: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+# Create Environment: conda create --name (name : user defined) (package or library name to install)
+		
+Example: conda create --name lima numpy
+
+#Come out from an Environment: quit()
+
+# Activate an Environment: activate lima
+
+# Know the version of virtual environment: python
+
+N.B- Activate environment first
+
+# Deactivate an Environment: deactivate
+
+# How to create virtual environment of specific python version: conda create --name khadija python=3.5 numpy
+
+# list of virtual environments: conda info --envs
