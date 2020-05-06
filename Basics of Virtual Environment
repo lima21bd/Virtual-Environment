@@ -1,0 +1,18 @@
+# Helping Youtube Vedio: https://youtu.be/APOPm01BVrk
+
+# Create Virtuat Environment: python -m venv (name of virtual environment)
+
+Example: python -m venv project
+
+# Activate Virtual Environment: project\Scripts\activate.bat
+
+# List where Environments are staying: where python
+
+# How to check pip list: pip list
+
+# pip list with version: pip freeze
+
+# Deactivate Environment: deactivate
+
+# Remove an environment: rmdir project /s
+
