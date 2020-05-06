@@ -1,0 +1,21 @@
+# Helping Youtube Vedio: https://youtu.be/APOPm01BVrk
+
+# keep a project a n directory. for example we will use Desktop
+
+# Go to the directory where project exit: cd Desktop
+
+# Create project folder: mkdir my_project
+
+# Create Environment on that folder: python -m venv my_project\(userdefined name of environment. here venv)
+
+# Activate that environment: my_project\venv\Scripts\activate.bat
+
+# How to install packages and libraries exist in requirement.txt file: pip install -r requirements.txt
+
+# check installation: pip list
+
+# Enter into project folder: cd my_project
+
+# Deactivate Environment: deactivate
+
+# Delete Environment: rmdir venv /s
